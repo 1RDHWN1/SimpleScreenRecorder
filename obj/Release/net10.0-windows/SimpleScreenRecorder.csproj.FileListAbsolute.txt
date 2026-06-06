@@ -1,0 +1,15 @@
+C:\SimpleScreenRecorder\bin\Release\net10.0-windows\SimpleScreenRecorder.exe
+C:\SimpleScreenRecorder\bin\Release\net10.0-windows\SimpleScreenRecorder.deps.json
+C:\SimpleScreenRecorder\bin\Release\net10.0-windows\SimpleScreenRecorder.runtimeconfig.json
+C:\SimpleScreenRecorder\bin\Release\net10.0-windows\SimpleScreenRecorder.dll
+C:\SimpleScreenRecorder\bin\Release\net10.0-windows\SimpleScreenRecorder.pdb
+C:\SimpleScreenRecorder\obj\Release\net10.0-windows\SimpleScreenRecorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\SimpleScreenRecorder\obj\Release\net10.0-windows\SimpleScreenRecorder.AssemblyInfoInputs.cache
+C:\SimpleScreenRecorder\obj\Release\net10.0-windows\SimpleScreenRecorder.AssemblyInfo.cs
+C:\SimpleScreenRecorder\obj\Release\net10.0-windows\SimpleScreenRecorder.csproj.CoreCompileInputs.cache
+C:\SimpleScreenRecorder\obj\Release\net10.0-windows\SimpleScreenRecorder.sourcelink.json
+C:\SimpleScreenRecorder\obj\Release\net10.0-windows\SimpleScreenRecorder.dll
+C:\SimpleScreenRecorder\obj\Release\net10.0-windows\refint\SimpleScreenRecorder.dll
+C:\SimpleScreenRecorder\obj\Release\net10.0-windows\SimpleScreenRecorder.pdb
+C:\SimpleScreenRecorder\obj\Release\net10.0-windows\SimpleScreenRecorder.genruntimeconfig.cache
+C:\SimpleScreenRecorder\obj\Release\net10.0-windows\ref\SimpleScreenRecorder.dll
