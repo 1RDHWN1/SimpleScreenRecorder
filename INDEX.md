@@ -6,7 +6,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/SimpleScreenRecorder.git
+git clone https://github.com/1RDHWN1/SimpleScreenRecorder.git
 cd SimpleScreenRecorder
 
 # Build (Windows with vcpkg)
